@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c7f9d70-3770-4c39-ad28-ceb49e30ef7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kRDwsj25NSpnIM6XqEvWkW7F22" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ccccccccccc/zavrsni - vezbe/node-vue/frontend" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c7f9d70-3770-4c39-ad28-ceb49e30ef7c" name="Default Changelist" comment="" />
+      <created>1605654753990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605654753990</updated>
+      <workItem from="1605654755397" duration="3016000" />
+      <workItem from="1605657815905" duration="13254000" />
+      <workItem from="1605705029072" duration="446000" />
+      <workItem from="1605705597745" duration="5466000" />
+      <workItem from="1605711089132" duration="708000" />
+      <workItem from="1605711916770" duration="301000" />
+      <workItem from="1605717465317" duration="4342000" />
+      <workItem from="1605726120857" duration="873000" />
+      <workItem from="1605729206242" duration="774000" />
+      <workItem from="1606578894570" duration="1203000" />
+      <workItem from="1611685349051" duration="12214000" />
+      <workItem from="1611750717737" duration="4362000" />
+      <workItem from="1613301321430" duration="9431000" />
+      <workItem from="1613313818201" duration="703000" />
+      <workItem from="1613411502519" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="933" y="170" key="FileChooserDialogImpl" timestamp="1613301393066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613301393066" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605661594402">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605661594402" />
+  </component>
+</project>
